@@ -1,1 +1,1 @@
-# aicoin
+# AICoin
