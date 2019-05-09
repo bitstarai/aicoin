@@ -1,2 +1,3 @@
 # AICoin
-https://bitstarai.com/img/core-img/aicoin_256.png
+
+<img src="https://bitstarai.com/img/core-img/aicoin_256.png">
